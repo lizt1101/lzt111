@@ -18,6 +18,6 @@ public class TestServlet extends HttpServlet {
         res.setCharacterEncoding("utf-8");
         res.setContentType("text/html;utf-8");
         PrintWriter out = res.getWriter();
-        out.print("hello world lzt11!");
+        out.print("hello world lzt1101!");
     }
 }
